@@ -82,9 +82,9 @@ streamlit run app.py
 ## Output Images
 
 ### Example Prediction Result
-![output 1.png](output 1.png)
-![Prediction Example](output 2.png)
-![Prediction Example](output 3.png)
+![output 1](output1.png)
+![Prediction Example](output2.png)
+![Prediction Example](output3.png)
 ---
 
 ## Tech Stack
